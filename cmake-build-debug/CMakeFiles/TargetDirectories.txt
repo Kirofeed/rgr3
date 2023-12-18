@@ -1,3 +1,0 @@
-C:/Users/drozh/OneDrive/desktop/rgr3/cmake-build-debug/CMakeFiles/rgr3.dir
-C:/Users/drozh/OneDrive/desktop/rgr3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/drozh/OneDrive/desktop/rgr3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
