@@ -1,0 +1,4 @@
+/Users/kirilldrozhzha/CLionProjects/rgr3/cmake-build-debug/CMakeFiles/rgr3.dir
+/Users/kirilldrozhzha/CLionProjects/rgr3/cmake-build-debug/CMakeFiles/Library.dir
+/Users/kirilldrozhzha/CLionProjects/rgr3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kirilldrozhzha/CLionProjects/rgr3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
